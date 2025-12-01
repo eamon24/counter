@@ -1,4 +1,4 @@
-mport 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import 'dog_profile_screen.dart';
 
 class OnboardingScreen extends StatelessWidget {
